@@ -1,0 +1,6 @@
+{
+  "name": "Desentupidora BIG - Plantão 24h BH",
+  "description": "Desentupimento 24 horas em Belo Horizonte e Região Metropolitana com atendimento ágil em até 30 minutos, orçamento grátis e sem quebra-quebra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
