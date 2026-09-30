@@ -4,6 +4,7 @@ import { HeroSection } from './components/HeroSection';
 import { ReviewsSection } from './components/ReviewsSection';
 import { StatsBanner } from './components/StatsBanner';
 import { FinalCtaSection } from './components/FinalCtaSection';
+import { HydroJetSection } from './components/HydroJetSection';
 import { Footer } from './components/Footer';
 import { FloatingWhatsApp } from './components/FloatingWhatsApp';
 import { QuickDispatchModal } from './components/QuickDispatchModal';
@@ -30,7 +31,10 @@ export default function App() {
           <StatsBanner />
         </div>
 
-        {/* 3. Final Emergency Action Banner */}
+        {/* 3. Hydro Jet Highlight Section */}
+        <HydroJetSection />
+
+        {/* 4. Final Emergency Action Banner */}
         <FinalCtaSection />
       </main>
 

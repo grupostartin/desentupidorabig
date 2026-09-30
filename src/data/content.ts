@@ -21,9 +21,9 @@ export const ASSETS = {
 };
 
 export const CONTACT_INFO = {
-  phone: '(31) 98551-7201',
-  phoneRaw: '+5531985517201',
-  whatsappRaw: '5531985517201',
+  phone: '(31) 98851-7201',
+  phoneRaw: '+5531988517201',
+  whatsappRaw: '5531988517201',
   defaultWhatsappMessage: 'Olá! Preciso de atendimento de urgência da Desentupidora BIG em BH.',
   getWhatsappUrl: (customMsg?: string) => {
     const text = encodeURIComponent(customMsg || CONTACT_INFO.defaultWhatsappMessage);
